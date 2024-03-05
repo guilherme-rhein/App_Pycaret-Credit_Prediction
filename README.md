@@ -12,4 +12,5 @@
 ---
 
 
+https://github.com/guilherme-rhein/App_Pycaret-Credit_Prediction/assets/88910779/b4d5bbe9-781f-41aa-8d31-67fa4b05eaa5
 
