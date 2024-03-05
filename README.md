@@ -53,7 +53,7 @@ from io import BytesIO
 from pycaret.classification import load_model, predict_model
 ```
 
-## Dependencias e Instalação 📚
+## Dependencias e Instalação 🎈
 
 ```
 pandas==1.5.3
