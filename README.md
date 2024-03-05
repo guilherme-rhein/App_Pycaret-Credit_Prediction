@@ -11,6 +11,15 @@
 
 ---
 
+## Executando o projeto
+
+1. **Aplicativo:**
+    - Acesse o aplicativo no local indicado acima: `Teste Aqui`
+2. **Execução do código:**
+    - Faça o download e arraste os dados para análise: `credit_scoring.ftr` - [Clique aqui e faça o download.](https://github.com/guilherme-rhein/App_Pycaret-Credit_Prediction/blob/main/credit_scoring.ftr)
+3. **Relatório:**
+    - Realize o Download do resultado em Excel: `Download`
+
 
 https://github.com/guilherme-rhein/App_Pycaret-Credit_Prediction/assets/88910779/b4d5bbe9-781f-41aa-8d31-67fa4b05eaa5
 
@@ -42,4 +51,20 @@ import pandas as pd
 import streamlit as st
 from io import BytesIO
 from pycaret.classification import load_model, predict_model
+```
+
+## Dependencias e Instalação 📚
+
+```
+pandas==1.5.3
+numpy==1.24.4
+scikit-plot==0.3.7
+XlsxWriter==3.1.1
+joblib==1.3.2
+requests==2.31.0
+scipy==1.10.1
+matplotlib==3.6.0
+pycaret==3.2.0
+streamlit==1.31.1
+protobuf==4.25.2
 ```
